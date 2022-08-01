@@ -1,7 +1,7 @@
 ### Authors:
-- Topaz Aakal 	-> 318644549
-- Marat Zinger 	-> 332689405
-- Afik Danan 	-> 208900175
+- Topaz Aakal
+- Marat Zinger
+- Afik Danan 
 
 ### Python main libraries for this project:
 numpy <br>
